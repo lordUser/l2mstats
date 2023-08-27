@@ -1,2 +1,6 @@
 .idea
 .venv
+/credentials.json
+/token.json
+__pycache__/
+l2m_stats/*
